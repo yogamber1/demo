@@ -4,6 +4,8 @@ branches
 2. feature
 3. direct
  // merged with feature
+ 
+ 
 commands used for reference
 player x@DHINCHIKKIPC MINGW64 ~/Desktop/new rep
 $ git version
